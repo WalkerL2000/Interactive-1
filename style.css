@@ -3,7 +3,7 @@
   src: url('kellyslab-regular-webfont.woff2') format('woff2'), 
        url('kellyslab-regular-webfont.woff') format('woff'),
        url('KellySlab-Regular.ttf')  format('truetype');
-       
+
 			}
 
 
@@ -201,7 +201,7 @@ resize: none;
 .stripes {
 	position: relative;
 	top: -10px;
-	left: 0px;
+	left: -10px;
 	width: 100vw;
 	height: 100vh;
 	margin-bottom: 0px;
